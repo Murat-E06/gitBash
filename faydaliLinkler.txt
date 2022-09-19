@@ -1,0 +1,26 @@
+techproeducation -->Türkçe
+github.com/rest-assured
+https://zety.com/ -->cv
+smallpdf->cv 
+w3schools.com -->
+mockaroo.com --> to generate data like a faker but more usefull
+examtopics.doc
+vcecollection.net -->ISTQB or the other exams
+For typing keyboard
+	keybr.com
+	thetypingcat.com
+	play.typeracer
+	zty.pe
+	10fastfinger.com
+--------------------------------------------------------
+echo "# gitBash" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Murat-E06/gitBash.git
+git push -u origin main
+-----------------------------------------------------------
+git remote add origin https://github.com/Murat-E06/gitBash.git
+git branch -M main
+git push -u origin main
